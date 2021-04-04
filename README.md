@@ -1,6 +1,8 @@
 # Estudos relacionados à Semana Data Science 7  
 Trabalhamos com bibliotecas python relacionadas à Ciência de Dados como numpy, plotly, scikit-learn, pandas, streamlit, seaborn, google colab e matplotlib.  
+
 Utilizamos ferramentas como conda e vs code para fazer o deploy da aplicação prática.  
+
 Durante o evento utilizamos a base de dados de imóveis de Boston do sklearn.datasets.  
 
 Fizemos análise de dados utilizando as bibliotecas para encontrar outliers e atributos que possuem forte correlação com o comportamento do valor objetivo e descartar atributos com correlação insignificante.  
