@@ -1,4 +1,5 @@
 # Estudos relacionados à Semana Data Science 7  
+## Evento oferecido pelo Minerando Dados
 Trabalhamos com bibliotecas python relacionadas à Ciência de Dados como numpy, plotly, scikit-learn, pandas, streamlit, seaborn, google colab e matplotlib.  
 
 Utilizamos ferramentas como conda e vs code para executar a aplicação prática através do Streamlit.  
